@@ -1,3 +1,6 @@
+
+
+## Welcome to GitHub Pages
 <!-- Default sidebar -->
 <div class="sidebar">
   <div class="container sidebar-sticky">
@@ -12,9 +15,6 @@
     Hi sidebar
   </div>
 </div>
-
-## Welcome to GitHub Pages
-
 You can use the [editor on GitHub](https://github.com/tara12LD/tara12ld.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
