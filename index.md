@@ -9,6 +9,7 @@
 <div class="sidebar">
   <div class="container">
     ...
+    Hi sidebar
   </div>
 </div>
 
